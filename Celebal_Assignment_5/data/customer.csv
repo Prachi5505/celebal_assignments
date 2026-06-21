@@ -1,0 +1,31 @@
+customer_id,customer_name,age,gender,city,region,membership,total_orders,total_spent,status
+C101,Amit Sharma,25,Male,Jaipur,North,Gold,12,45000,Active
+C102,Priya Singh,31,Female,Delhi,North,Silver,8,22000,Active
+C103,Rahul Verma,29,Male,Mumbai,West,Gold,15,68000,Active
+C104,Sneha Gupta,,Female,Pune,West,Silver,5,18000,Inactive
+C105,Karan Mehta,35,Male,Ahmedabad,West,Bronze,4,12000,Active
+C106,Neha Jain,27,Female,Chennai,South,Gold,10,39000,Active
+C107,Vikas Sharma,42,Male,Bengaluru,South,Platinum,22,125000,Active
+C108,Ritu Kapoor,24,Female,Kolkata,East,Silver,6,17000,Inactive
+C109,Ankit Yadav,30,Male,Lucknow,North,Bronze,7,,Active
+C110,Pooja Soni,28,Female,Indore,Central,Gold,11,48000,Active
+C101,Amit Sharma,25,Male,Jaipur,North,Gold,12,45000,Active
+C111,,26,Female,Delhi,North,Silver,5,15000,Active
+C112,Rohit Sharma,38,Male,,West,Gold,16,72000,Active
+C113,Simran Kaur,23,Female,Jaipur,North,Bronze,3,8000,Inactive
+C114,Deepak Joshi,41,Male,Hyderabad,South,Platinum,20,98000,Active
+C115,Nisha Patel,22,Female,Surat,West,Silver,4,11000,Active
+C116,Ajay Kumar,36,Male,Patna,East,Gold,13,61000,Active
+C117,Kavita Sharma,31,Female,Chandigarh,North,Silver,9,29000,Inactive
+C118,Arjun Singh,,Male,Mumbai,West,Gold,14,65000,Active
+C119,Meena Verma,27,Female,Bhopal,Central,Bronze,6,20000,Active
+C120,Raj Malhotra,33,Male,Delhi,North,Gold,17,78000,Active
+C121,Aisha Khan,29,Female,Pune,West,Silver,8,26000,Active
+C122,Harsh Gupta,26,Male,Nagpur,Central,Bronze,5,14000,Inactive
+C123,Tanya Arora,34,Female,Kochi,South,Gold,12,53000,Active
+C124,Vikram Singh,45,Male,Delhi,North,Platinum,25,145000,Active
+C125,Khushi Jain,24,Female,Chennai,South,Silver,7,,Active
+C126,Yash Meena,32,Male,Jaipur,North,Gold,10,47000,Active
+C127,Riya Sharma,28,Female,,West,Bronze,6,19000,Inactive
+C128,Manish Verma,39,Male,Mumbai,West,Gold,18,85000,Active
+C129,Priya Kapoor,30,Female,Delhi,North,Silver,9,31000,Active
