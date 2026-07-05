@@ -1,0 +1,6 @@
+employee_id,employee_name,gender,age,department,designation,salary,experience,joining_date,city,state,manager_name,performance_rating,attendance_percentage,active
+101,Rahul Sharma,Male,30,IT,Software Engineer,780000,5,2021-06-15,Jaipur,Rajasthan,Anita Verma,5,97,true
+450,Priya Mehta,Female,28,HR,HR Executive,550000,4,2022-02-10,Delhi,Delhi,Rohit Khanna,4,95,true
+890,Amit Singh,Male,35,Finance,Senior Analyst,900000,8,2018-09-20,Lucknow,Uttar Pradesh,Sneha Kapoor,5,98,true
+1333,Neha Gupta,Female,29,Marketing,Marketing Executive,600000,3,2025-01-10,Mumbai,Maharashtra,Vikram Joshi,4,96,true
+1334,Karan Mehta,Male,32,Sales,Sales Manager,850000,7,2024-08-05,Pune,Maharashtra,Rajesh Sharma,5,99,true
