@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+1,Chair,Home,Furniture,4544
+2,Sony,Electronics,Camera,3852
+3,Jeans,Clothing,Men,4554
+4,Shirt,Clothing,Kids,2661
+5,Harry Potter,Books,Fiction,3892
+6,Chair,Home,Furniture,4962
+7,T-Shirt,Clothing,Men,4939
+8,Dune,Books,Fiction,2237
+9,Chair,Home,Furniture,2399
+10,Dress,Clothing,Women,3483
+11,Dress,Clothing,Women,3982
+12,Dress,Clothing,Women,4011
+13,Jeans,Clothing,Men,3293
+14,Sofa,Home,Furniture,2838
+15,Math Book,Books,Education,2155
+16,Oppo,Electronics,Mobile,4571
+17,Oppo,Electronics,Mobile,3968
+18,Pan,Home,Kitchen,4375
+19,Apple,Electronics,Mobile,3371
+20,Python Book,Books,Education,4966
+21,Pan,Home,Kitchen,2032
+22,Math Book,Books,Education,2373
+23,Shirt,Clothing,Kids,2918
+24,Apple,Electronics,Mobile,2347
+25,Harry Potter,Books,Fiction,3119
+26,Sofa,Home,Furniture,4742
+27,Pan,Home,Kitchen,2189
+28,Jeans,Clothing,Men,4195
+29,Handbag,Clothing,Women,4496
+30,T-Shirt,Clothing,Men,3686
+31,Sony,Electronics,Camera,2065
+32,Sony,Electronics,Camera,4217
+33,Sony,Electronics,Camera,4423
+34,Sofa,Home,Furniture,3376
+35,Lenovo,Electronics,Laptop,3409
+36,Mixer,Home,Kitchen,3904
+37,Oppo,Electronics,Mobile,3907
+38,Sony,Electronics,Camera,2369
+39,Lenovo,Electronics,Laptop,4322
+40,HP,Electronics,Laptop,3881
+41,Dress,Clothing,Women,4990
+42,Python Book,Books,Education,2058
+43,Shirt,Clothing,Kids,4717
+44,Harry Potter,Books,Fiction,2089
+45,Sony,Electronics,Camera,4789
+46,Sofa,Home,Furniture,4998
+47,Dress,Clothing,Women,3411
+48,Toy,Clothing,Kids,3641
+49,Oppo,Electronics,Mobile,2973
+50,Shirt,Clothing,Kids,3336
+51,Sofa,Home,Furniture,4942
+52,Pan,Home,Kitchen,3873
+53,Jeans,Clothing,Men,3617
+54,Harry Potter,Books,Fiction,3518
+55,Jeans,Clothing,Men,2512
+56,Mixer,Home,Kitchen,2383
+57,Sofa,Home,Furniture,4646
+58,Oppo,Electronics,Mobile,4116
+59,Jeans,Clothing,Men,4700
+60,Toy,Clothing,Kids,3837
+61,MacBook,Electronics,Laptop,4168
+62, MacBook ,Electronics,Laptop,2049
+63,Handbag,Clothing,Women,2739
+64,Shirt,Clothing,Kids,3309
+65,Sony,Electronics,Camera,3492
+66,HP,Electronics,Laptop,3622
+67,Pan,Home,Kitchen,3914
+68,Python Book,Books,Education,3941
+69,Handbag,Clothing,Women,2229
+70,MacBook,Electronics,Laptop,2768
+71,Shirt,Clothing,Kids,2220
+72,Toy,Clothing,Kids,4267
+73,Shirt,Clothing,Kids,2896
+74,Math Book,Books,Education,4157
+75,Sony,Electronics,Camera,2933
+76,Handbag,Clothing,Women,2750
+77,Sofa,Home,Furniture,2409
+78,Oppo,Electronics,Mobile,2281
+79,Harry Potter,Books,Fiction,2184
+80,Math Book,Books,Education,4240
+81,Mixer,Home,Kitchen,3044
+82,Python Book,Books,Education,4368
+83,Toy,Clothing,Kids,2223
+84,Dune,Books,Fiction,3813
+85,Sony,Electronics,Camera,3231
+86, T-Shirt ,Clothing,Men,4449
+87,Mixer,Home,Kitchen,3602
+88,Math Book,Books,Education,3449
+89,Sony,Electronics,Camera,4535
+90,Sofa,Home,Furniture,4089
+91,Toy,Clothing,Kids,4788
+92,MacBook,Electronics,Laptop,2578
+93,Sony,Electronics,Camera,3878
+94,Harry Potter,Books,Fiction,3151
+95,Chair,Home,Furniture,2209
+96,T-Shirt,Clothing,Men,4185
+97, Math Book ,Books,Education,2220
+98,Sofa,Home,Furniture,3992
+99,Shirt,Clothing,Kids,2046
+100,Mixer,Home,Kitchen,4136
+101, Dress ,Clothing,Women,2277
+102,Python Book,Books,Education,2184
+103,Python Book,Books,Education,4960
+104, Mixer ,Home,Kitchen,4301
+105,Apple,Electronics,Mobile,2352
+106,Apple,Electronics,Mobile,2703
+107,Shirt,Clothing,Kids,4176
+108,Sofa,Home,Furniture,3035
+109,Mixer,Home,Kitchen,2528
+110,Chair,Home,Furniture,4297
+111,Oppo,Electronics,Mobile,4341
+112,Harry Potter,Books,Fiction,3721
+113,Dress,Clothing,Women,2032
+114,Chair,Home,Furniture,2584
+115,Chair,Home,Furniture,4756
+116,Harry Potter,Books,Fiction,4389
+117,Harry Potter,Books,Fiction,3347
+118,HP,Electronics,Laptop,3210
+119,Sofa,Home,Furniture,2504
+120,HP,Electronics,Laptop,4239
+121,Sony,Electronics,Camera,2517
+122,Sofa,Home,Furniture,4396
+123,Oppo,Electronics,Mobile,2199
+124,Python Book,Books,Education,3562
+125,Mixer,Home,Kitchen,4069
+126,Dress,Clothing,Women,4211
+127,Harry Potter,Books,Fiction,4352
+128,Math Book,Books,Education,3231
+129,Dress,Clothing,Women,2507
+130,Chair,Home,Furniture,4294
+131,Dress,Clothing,Women,4522
+132,Mixer,Home,Kitchen,3236
+133,Toy,Clothing,Kids,3976
+134,Dune,Books,Fiction,3164
+135,Jeans,Clothing,Men,4123
+136,Chair,Home,Furniture,3600
+137,Math Book,Books,Education,2103
+138,Chair,Home,Furniture,2956
+139,Chair,Home,Furniture,2152
+140,Oppo,Electronics,Mobile,4335
+141,Sony,Electronics,Camera,3137
+142,HP,Electronics,Laptop,3236
+143,Dune,Books,Fiction,4569
+144,T-Shirt,Clothing,Men,3162
+145,Handbag,Clothing,Women,4917
+146,Oppo,Electronics,Mobile,2228
+147,Chair,Home,Furniture,4919
+148,Toy,Clothing,Kids,2133
+149, Shirt ,Clothing,Kids,4000
+150,Sofa,Home,Furniture,3661
+151, Handbag ,Clothing,Women,2711
+152,Python Book,Books,Education,3557
+153,Oppo,Electronics,Mobile,3005
+154, Python Book ,Books,Education,3814
+155,Chair,Home,Furniture,2293
+156,Python Book,Books,Education,4428
+157,Dress,Clothing,Women,2104
+158,Samsung,Electronics,Mobile,3696
+159,Oppo,Electronics,Mobile,2718
+160,Python Book,Books,Education,2645
+161,Harry Potter,Books,Fiction,2284
+162,Mixer,Home,Kitchen,2011
+163,Math Book,Books,Education,4990
+164,Dune,Books,Fiction,4940
+165, Harry Potter ,Books,Fiction,4128
+166,Python Book,Books,Education,2441
+167,Harry Potter,Books,Fiction,3299
+168,Dune,Books,Fiction,4257
+169,Sony,Electronics,Camera,3319
+170,Harry Potter,Books,Fiction,3683
+171,Handbag,Clothing,Women,2751
+172, Python Book ,Books,Education,3772
+173,Sofa,Home,Furniture,3691
+174,Chair,Home,Furniture,3855
+175,Dress,Clothing,Women,3135
+176,Mixer,Home,Kitchen,2851
+177,Jeans,Clothing,Men,3291
+178,Mixer,Home,Kitchen,3676
+179,Chair,Home,Furniture,3280
+180,Chair,Home,Furniture,4494
+181, Dune ,Books,Fiction,4194
+182, Harry Potter ,Books,Fiction,3979
+183,Oppo,Electronics,Mobile,3407
+184,Handbag,Clothing,Women,2856
+185,Jeans,Clothing,Men,3152
+186,Jeans,Clothing,Men,3919
+187,Python Book,Books,Education,3719
+188,Handbag,Clothing,Women,4173
+189,HP,Electronics,Laptop,4182
+190,Chair,Home,Furniture,3953
+191,Math Book,Books,Education,4679
+192,T-Shirt,Clothing,Men,4389
+193,Python Book,Books,Education,4652
+194,Math Book,Books,Education,2642
+195,Pan,Home,Kitchen,2086
+196, Sofa ,Home,Furniture,3962
+197,Harry Potter,Books,Fiction,4623
+198,Dress,Clothing,Women,3095
+199,Math Book,Books,Education,4731
+200,Harry Potter,Books,Fiction,3776
+201,Sofa,Home,Furniture,3368
+202,Dune,Books,Fiction,2017
+203,HP,Electronics,Laptop,3995
+204,Lenovo,Electronics,Laptop,3775
+205,Lenovo,Electronics,Laptop,3486
+206,Sony,Electronics,Camera,3406
+207,Oppo,Electronics,Mobile,4156
+208,Math Book,Books,Education,2557
+209,Jeans,Clothing,Men,3804
+210,Math Book,Books,Education,3693
+211,Python Book,Books,Education,3298
+212,Sony,Electronics,Camera,2211
+213,Sofa,Home,Furniture,2545
+214,Sony,Electronics,Camera,2276
+215,Pan,Home,Kitchen,4413
+216,Harry Potter,Books,Fiction,4299
+217,Dune,Books,Fiction,4472
+218,Oppo,Electronics,Mobile,4406
+219,Dune,Books,Fiction,4746
+220,Shirt,Clothing,Kids,2360
+221,Chair,Home,Furniture,4349
+222,Math Book,Books,Education,3915
+223, Handbag ,Clothing,Women,4394
+224,Toy,Clothing,Kids,2895
+225,Math Book,Books,Education,4809
+226, T-Shirt ,Clothing,Men,4394
+227,Pan,Home,Kitchen,4234
+228,Lenovo,Electronics,Laptop,2143
+229,Dress,Clothing,Women,2289
+230,Sony,Electronics,Camera,4903
+231,Dune,Books,Fiction,4646
+232,T-Shirt,Clothing,Men,4496
+233,Pan,Home,Kitchen,2571
+234,Python Book,Books,Education,4162
+235,Samsung,Electronics,Mobile,2849
+236,Samsung,Electronics,Mobile,2093
+237,Pan,Home,Kitchen,3803
+238,HP,Electronics,Laptop,3053
+239,Sony,Electronics,Camera,4829
+240,Harry Potter,Books,Fiction,2680
+241, Handbag ,Clothing,Women,2533
+242,Harry Potter,Books,Fiction,3433
+243,T-Shirt,Clothing,Men,4818
+244,Python Book,Books,Education,2002
+245,Dune,Books,Fiction,2661
+246,Dress,Clothing,Women,3891
+247,Sofa,Home,Furniture,2454
+248,Harry Potter,Books,Fiction,3973
+249,Oppo,Electronics,Mobile,2188
+250,Dress,Clothing,Women,3618
+251, Python Book ,Books,Education,2065
+252,Chair,Home,Furniture,3568
+253,Sony,Electronics,Camera,4868
+254, Handbag ,Clothing,Women,3369
+255,Python Book,Books,Education,3156
+256,Shirt,Clothing,Kids,3758
+257,Toy,Clothing,Kids,4184
+258,MacBook,Electronics,Laptop,4851
+259,Harry Potter,Books,Fiction,2308
+260,Mixer,Home,Kitchen,3052
+261,Sony,Electronics,Camera,4278
+262,Sony,Electronics,Camera,2532
+263,T-Shirt,Clothing,Men,4485
+264,Sofa,Home,Furniture,3676
+265,Shirt,Clothing,Kids,3543
+266,Harry Potter,Books,Fiction,2993
+267,Toy,Clothing,Kids,4055
+268,T-Shirt,Clothing,Men,2510
+269,MacBook,Electronics,Laptop,4040
+270,Apple,Electronics,Mobile,2380
+271,T-Shirt,Clothing,Men,4801
+272,MacBook,Electronics,Laptop,3757
+273,Sony,Electronics,Camera,4327
+274,Python Book,Books,Education,4716
+275,Dune,Books,Fiction,3135
+276,Math Book,Books,Education,4659
+277,Shirt,Clothing,Kids,3906
+278,Sony,Electronics,Camera,4891
+279,Jeans,Clothing,Men,2534
+280,Pan,Home,Kitchen,2700
+281,Pan,Home,Kitchen,2804
+282,Handbag,Clothing,Women,3305
+283,Jeans,Clothing,Men,4571
+284,Samsung,Electronics,Mobile,2358
+285,Lenovo,Electronics,Laptop,2041
+286,Math Book,Books,Education,2523
+287,Shirt,Clothing,Kids,2785
+288,Lenovo,Electronics,Laptop,3070
+289,Shirt,Clothing,Kids,3861
+290,T-Shirt,Clothing,Men,4136
+291,Chair,Home,Furniture,2037
+292,Chair,Home,Furniture,4108
+293,T-Shirt,Clothing,Men,3011
+294,MacBook,Electronics,Laptop,4799
+295,Sony,Electronics,Camera,3277
+296,T-Shirt,Clothing,Men,2855
+297,Sofa,Home,Furniture,4581
+298,Samsung,Electronics,Mobile,2266
+299,Sofa,Home,Furniture,4018
+300,Jeans,Clothing,Men,2572
+301,Oppo,Electronics,Mobile,3543
+302,Harry Potter,Books,Fiction,3861
+303,MacBook,Electronics,Laptop,4047
+304,Math Book,Books,Education,4063
+305,Toy,Clothing,Kids,3219
+306,Shirt,Clothing,Kids,2414
+307,Chair,Home,Furniture,3382
+308,Sony,Electronics,Camera,2798
+309,HP,Electronics,Laptop,2484
+310,Shirt,Clothing,Kids,4075
+311,HP,Electronics,Laptop,2389
+312,Dune,Books,Fiction,4849
+313,Sony,Electronics,Camera,2269
+314,Lenovo,Electronics,Laptop,3150
+315,Dune,Books,Fiction,3073
+316,Toy,Clothing,Kids,2290
+317,Math Book,Books,Education,3254
+318,Sofa,Home,Furniture,2481
+319,HP,Electronics,Laptop,4567
+320,Toy,Clothing,Kids,2659
+321,Chair,Home,Furniture,2139
+322,Jeans,Clothing,Men,3600
+323,Pan,Home,Kitchen,2258
+324,Sofa,Home,Furniture,3182
+325,Harry Potter,Books,Fiction,4543
+326,Python Book,Books,Education,4280
+327,Mixer,Home,Kitchen,3025
+328,Pan,Home,Kitchen,3249
+329,Oppo,Electronics,Mobile,2522
+330,Harry Potter,Books,Fiction,4302
+331,Dress,Clothing,Women,4836
+332, Python Book ,Books,Education,3255
+333,Dress,Clothing,Women,2791
+334, Jeans ,Clothing,Men,3105
+335,Harry Potter,Books,Fiction,3068
+336,Toy,Clothing,Kids,3384
+337,Sony,Electronics,Camera,4406
+338,Math Book,Books,Education,2536
+339,Jeans,Clothing,Men,2692
+340,Shirt,Clothing,Kids,4503
+341,Shirt,Clothing,Kids,3455
+342,Dune,Books,Fiction,4369
+343,Apple,Electronics,Mobile,2320
+344,Chair,Home,Furniture,2477
+345,Oppo,Electronics,Mobile,2340
+346,Dress,Clothing,Women,3400
+347,Python Book,Books,Education,2700
+348,MacBook,Electronics,Laptop,2579
+349,Python Book,Books,Education,3515
+350,MacBook,Electronics,Laptop,3013
+351,Shirt,Clothing,Kids,3100
+352,Shirt,Clothing,Kids,2299
+353, Sofa ,Home,Furniture,2510
+354,Chair,Home,Furniture,3926
+355,Sony,Electronics,Camera,4461
+356,Jeans,Clothing,Men,3160
+357,Math Book,Books,Education,3213
+358,Harry Potter,Books,Fiction,3614
+359,Pan,Home,Kitchen,3276
+360,Harry Potter,Books,Fiction,3302
+361,Toy,Clothing,Kids,4523
+362,MacBook,Electronics,Laptop,4887
+363,Python Book,Books,Education,4082
+364,Python Book,Books,Education,2209
+365,Dress,Clothing,Women,3836
+366,T-Shirt,Clothing,Men,4355
+367,Jeans,Clothing,Men,2252
+368,Dune,Books,Fiction,4899
+369,Handbag,Clothing,Women,3172
+370,Toy,Clothing,Kids,4755
+371,Chair,Home,Furniture,3583
+372,Harry Potter,Books,Fiction,3229
+373,Sofa,Home,Furniture,3727
+374,Mixer,Home,Kitchen,4295
+375,MacBook,Electronics,Laptop,4419
+376,MacBook,Electronics,Laptop,2246
+377,Apple,Electronics,Mobile,2593
+378,Chair,Home,Furniture,2242
+379,Handbag,Clothing,Women,4824
+380,Pan,Home,Kitchen,3643
+381,Harry Potter,Books,Fiction,4819
+382,Dress,Clothing,Women,4930
+383,Python Book,Books,Education,3479
+384,Mixer,Home,Kitchen,2749
+385,Samsung,Electronics,Mobile,2687
+386,Lenovo,Electronics,Laptop,2334
+387, Sony ,Electronics,Camera,3172
+388,Handbag,Clothing,Women,3794
+389,Python Book,Books,Education,2381
+390,T-Shirt,Clothing,Men,4927
+391,Toy,Clothing,Kids,2056
+392,Sony,Electronics,Camera,4015
+393,Jeans,Clothing,Men,2906
+394,Oppo,Electronics,Mobile,3293
+395,Python Book,Books,Education,3762
+396,Sofa,Home,Furniture,2573
+397,Toy,Clothing,Kids,3354
+398,Harry Potter,Books,Fiction,3545
+399,Samsung,Electronics,Mobile,3295
+400,Dune,Books,Fiction,4545
+401,Sofa,Home,Furniture,4025
+402,Toy,Clothing,Kids,2326
+403, Apple ,Electronics,Mobile,4666
+404,Chair,Home,Furniture,2118
+405,Apple,Electronics,Mobile,2712
+406,Sofa,Home,Furniture,4144
+407,Sofa,Home,Furniture,3472
+408,Dress,Clothing,Women,4969
+409,Sony,Electronics,Camera,3404
+410, MacBook ,Electronics,Laptop,4857
+411,Pan,Home,Kitchen,4637
+412,Math Book,Books,Education,3755
+413,MacBook,Electronics,Laptop,4099
+414,Mixer,Home,Kitchen,3852
+415,Sony,Electronics,Camera,4648
+416,Dune,Books,Fiction,4714
+417,T-Shirt,Clothing,Men,2659
+418,Chair,Home,Furniture,3367
+419, Chair ,Home,Furniture,2687
+420,Apple,Electronics,Mobile,4641
+421,Math Book,Books,Education,2417
+422,Sofa,Home,Furniture,2560
+423,Shirt,Clothing,Kids,2717
+424,Dress,Clothing,Women,4815
+425,Sony,Electronics,Camera,4584
+426,MacBook,Electronics,Laptop,3489
+427,Dress,Clothing,Women,2573
+428,Mixer,Home,Kitchen,4761
+429, Jeans ,Clothing,Men,3778
+430,Chair,Home,Furniture,4505
+431,Shirt,Clothing,Kids,2369
+432,Chair,Home,Furniture,4972
+433,Python Book,Books,Education,3204
+434,Shirt,Clothing,Kids,4142
+435, Dress ,Clothing,Women,2121
+436,Sofa,Home,Furniture,4378
+437,Python Book,Books,Education,2269
+438,Sofa,Home,Furniture,2981
+439, Samsung ,Electronics,Mobile,4388
+440,Harry Potter,Books,Fiction,3594
+441,Shirt,Clothing,Kids,3088
+442,Pan,Home,Kitchen,2114
+443,Sofa,Home,Furniture,3505
+444,Handbag,Clothing,Women,2520
+445,Toy,Clothing,Kids,2650
+446,Dune,Books,Fiction,3862
+447,Sofa,Home,Furniture,2137
+448,Dune,Books,Fiction,2435
+449,Jeans,Clothing,Men,2275
+450,Jeans,Clothing,Men,2529
+451,Jeans,Clothing,Men,3437
+452,T-Shirt,Clothing,Men,4729
+453,Toy,Clothing,Kids,2890
+454,Harry Potter,Books,Fiction,2976
+455,HP,Electronics,Laptop,3522
+456,Mixer,Home,Kitchen,4749
+457,Chair,Home,Furniture,2501
+458,Jeans,Clothing,Men,3049
+459,Math Book,Books,Education,3874
+460,Math Book,Books,Education,4872
+461,Python Book,Books,Education,3206
+462,Oppo,Electronics,Mobile,4862
+463,Jeans,Clothing,Men,2186
+464,Samsung,Electronics,Mobile,4001
+465,MacBook,Electronics,Laptop,3564
+466,Chair,Home,Furniture,4908
+467,Sofa,Home,Furniture,2436
+468,Harry Potter,Books,Fiction,3847
+469,Python Book,Books,Education,3413
+470,Pan,Home,Kitchen,4869
+471,Lenovo,Electronics,Laptop,4204
+472,Handbag,Clothing,Women,3791
+473,Jeans,Clothing,Men,2622
+474,Shirt,Clothing,Kids,3142
+475,Sofa,Home,Furniture,4677
+476,Harry Potter,Books,Fiction,3498
+477,Sofa,Home,Furniture,2626
+478,Harry Potter,Books,Fiction,4079
+479,Dress,Clothing,Women,4092
+480,Math Book,Books,Education,3375
+481,Python Book,Books,Education,4172
+482,Sony,Electronics,Camera,2601
+483,Sony,Electronics,Camera,3453
+484,Mixer,Home,Kitchen,3763
+485,Jeans,Clothing,Men,2052
+486,Chair,Home,Furniture,3188
+487,Mixer,Home,Kitchen,2532
+488,MacBook,Electronics,Laptop,4361
+489,Math Book,Books,Education,2960
+490,Pan,Home,Kitchen,3598
+491, Harry Potter ,Books,Fiction,3304
+492,Sony,Electronics,Camera,2014
+493,MacBook,Electronics,Laptop,4186
+494,Jeans,Clothing,Men,4237
+495,Math Book,Books,Education,2290
+496,Harry Potter,Books,Fiction,4766
+497,MacBook,Electronics,Laptop,2166
+498,Chair,Home,Furniture,3184
+499, Handbag ,Clothing,Women,2387
+500,Mixer,Home,Kitchen,4171
