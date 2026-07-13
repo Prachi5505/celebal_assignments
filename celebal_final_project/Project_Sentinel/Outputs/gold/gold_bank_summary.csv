@@ -1,0 +1,5 @@
+sender_bank,total_transactions,total_amount,average_transaction_amount,maximum_transaction_amount,minimum_transaction_amount,successful_transactions,failed_transactions,success_rate,failure_rate
+HDFC,4805,122618569.0,25518.95,49985.0,24.0,4651,154,96.8,3.2
+ICICI,4800,120972497.0,25202.6,49963.0,5.0,4652,148,96.92,3.08
+AXIS,4785,119543940.0,24983.06,49979.0,9.0,4635,150,96.87,3.13
+SBI,4685,117325464.0,25042.79,49999.0,10.0,4533,152,96.76,3.24

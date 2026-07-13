@@ -1,0 +1,5 @@
+transaction_type,total_transactions,total_amount,average_transaction_amount,maximum_transaction_amount,minimum_transaction_amount,successful_transactions,failed_transactions,success_rate,failure_rate
+P2P,9572,241043513.0,25182.15,49999.0,24.0,9265,307,96.79,3.21
+MERCHANT,3799,95960235.0,25259.34,49968.0,5.0,3697,102,97.32,2.68
+RECHARGE,2905,72780225.0,25053.43,49981.0,32.0,2812,93,96.8,3.2
+BILL PAYMENT,2799,70676497.0,25250.62,49961.0,36.0,2697,102,96.36,3.64
